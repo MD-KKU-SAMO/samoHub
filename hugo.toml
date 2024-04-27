@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'SAMO Hub'
+theme = 'hugo-theme-stack'
+description = 'All your SAMO-related sites are here'

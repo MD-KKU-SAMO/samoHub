@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on SAMO Hub</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on SAMO Hub</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 28 Apr 2024 01:14:23 +0700</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test First Post</title>
+        <link>http://localhost:1313/post/test-first-post/</link>
+        <pubDate>Sun, 28 Apr 2024 01:14:23 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/test-first-post/</guid>
+        <description>&lt;h2 id=&#34;1st-post-on-new-samo-hub-website&#34;&gt;
+    &lt;a href=&#34;#1st-post-on-new-samo-hub-website&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    1st Post on New SAMO-Hub Website
+&lt;/h2&gt;&lt;p&gt;This is an index site for all SAMO-related links.
+You may scroll to find your desire link.&lt;/p&gt;
+&lt;p&gt;Visit our &lt;a class=&#34;link&#34; href=&#34;https://github.com/MD-KKU-SAMO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

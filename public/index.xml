@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>SAMO Hub</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on SAMO Hub</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 28 Apr 2024 01:34:17 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ทดสอบการพิมพ์ด้วยภาษาไทย</title>
+        <link>http://localhost:1313/post/test-thai-post/</link>
+        <pubDate>Sun, 28 Apr 2024 01:34:17 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/test-thai-post/</guid>
+        <description>&lt;h1 id=&#34;ทดสอบการพมพดวยภาษาไทย&#34;&gt;
+    &lt;a href=&#34;#%e0%b8%97%e0%b8%94%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%a1%e0%b8%9e%e0%b8%94%e0%b8%a7%e0%b8%a2%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b9%84%e0%b8%97%e0%b8%a2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    ทดสอบการพิมพ์ด้วยภาษาไทย
+&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>Test First Post</title>
+        <link>http://localhost:1313/post/test-first-post/</link>
+        <pubDate>Sun, 28 Apr 2024 01:14:23 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/test-first-post/</guid>
+        <description>&lt;h2 id=&#34;1st-post-on-new-samo-hub-website&#34;&gt;
+    &lt;a href=&#34;#1st-post-on-new-samo-hub-website&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    1st Post on New SAMO-Hub Website
+&lt;/h2&gt;&lt;p&gt;This is an index site for all SAMO-related links.
+You may scroll to find your desire link.&lt;/p&gt;
+&lt;p&gt;Visit our &lt;a class=&#34;link&#34; href=&#34;https://github.com/MD-KKU-SAMO&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
