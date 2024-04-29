@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'SAMO Hub'
+title = 'samoHub'
 theme = 'hugo-theme-stack'
