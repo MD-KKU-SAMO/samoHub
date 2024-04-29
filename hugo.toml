@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://md-kku-samo.github.io/samoHub/'
 languageCode = 'en-us'
 title = 'samoHub'
 theme = 'hugo-theme-stack'
