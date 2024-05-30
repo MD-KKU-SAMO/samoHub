@@ -1,7 +1,7 @@
 ---
 title: 'Contact'
 date: 2024-04-28T11:55:32+07:00
-draft: true
+draft: false
 menu: 
     main:
         name: ติดต่อเรา
@@ -9,9 +9,10 @@ menu:
         params:
 ---
 
-# ช่องทางติดต่อสมาชิกสโมฯ
+# ช่องทางติดต่อ
 
-1. **นศ.พ.แมวศักดิ์ มักปลาทู** (ปี 5) — หัวหน้าฝ่ายเลี้ยงแมว
-    - Line: meowsak
-    - Tel: *ไม่ต้องการระบุ*
-    - E-แมว: meosak@catmail.com
+1. **นศ.พ.โสภณ สายโสภา** (ปี 5) — เลขาฝ่าย
+    - Line: 0943569396
+    - IG: dome_sophon
+
+2. ติดต่อผ่านระบบ Feedback ของฝ่าย IT SAMO [คลิก](https://forms.gle/NBhsKNxwjrW7PEre7)
